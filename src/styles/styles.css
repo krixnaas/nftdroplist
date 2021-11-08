@@ -1,0 +1,16 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body, html{
+    background-color: rgb(38, 41, 54);    
+}
+
+.header{
+    width: "100%";
+    background-color: rgb(61, 65, 80);
+    padding:10px 25px;
+    color: aliceblue;
+
+}
